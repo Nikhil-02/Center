@@ -7,6 +7,8 @@ public class Kaira {
 		System.out.println("hi");
 		
 		System.out.println("hello");
+		
+		System.out.println("nice");
 
 	}
 
