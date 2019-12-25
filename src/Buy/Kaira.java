@@ -9,6 +9,8 @@ public class Kaira {
 		System.out.println("hello");
 		
 		System.out.println("nice");
+		
+		System.out.println("Hero");
 
 	}
 
